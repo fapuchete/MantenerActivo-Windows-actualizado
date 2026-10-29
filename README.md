@@ -1,0 +1,1 @@
+Pues es molesto estar cambiando la configuracion de energia de windows y esto lo que hace es dejar la pantalla siempre encendida para que nuestro agente favorito trabaje mientras estamos haciendo flexiones o rezando.
